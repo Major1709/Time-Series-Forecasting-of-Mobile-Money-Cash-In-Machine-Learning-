@@ -23,6 +23,8 @@ The goal is to support **liquidity management**, **operational planning**, and *
 
 ### Main variables
 
+* `Year`
+* `Mouth`
 * `Active_Agents`
 * `Total_Registered_Mobile_Money_Accounts_Millions`
 * `Total_Agent_Cash_in_Cash_Out_Volume_millions`
