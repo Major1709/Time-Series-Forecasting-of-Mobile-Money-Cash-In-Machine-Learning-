@@ -162,6 +162,6 @@ This project demonstrates that a **well-designed time series Machine Learning pi
 
 ---
 
-📌 **Author**: *Your Name*
+📌 **Author**: *Mahatody Tomy Kevin*
 📌 **Role**: Data Scientist
 📌 **Project type**: Time Series Machine Learning Portfolio Project
